@@ -1,9 +1,9 @@
 *{
-    padding: 0;
+    padding: 10;
     margin: 0;
     overflow-x: hidden;
 }
-.text{
+#text{
     width: 500px;
     height: 200px;
     margin: auto;

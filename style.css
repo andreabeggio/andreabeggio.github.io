@@ -1,5 +1,5 @@
 .game {
-  width: 600px;
+  width: 800px;
   height: 200px;
   border: 1px solid black;
   margin: auto;
@@ -18,23 +18,26 @@
   animation: jump 0.3s linear;
 }
 
+
+/* dino animation, lower px, closer to upper corner */
 @keyframes jump {
+  /* min */
   0% {
     top: 150px;
   }
 
-  30% {
+  25% {
     top: 130px;
   }
-
+  /* max height */
   50% {
     top: 80px;
   }
 
-  80% {
+  75% {
     top: 130px;
   }
-
+  /* min */
   100% {
     top: 150px;
   }
@@ -53,9 +56,10 @@
   animation: block 1s infinite linear;
 }
 
+/* cactus animation */
 @keyframes block {
   0% {
-    left: 580px;
+    left: 780px;
   }
 
   100% {

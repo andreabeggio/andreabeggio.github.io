@@ -2,7 +2,7 @@ html, body{
 	-webkit-font-smoothing:antialiased;
 	font-family: "Comic Sans MS", sans-serif;
 	line-height:1.4;
-	margin:0 auto;
+	margin:50px auto;
 	max-width: 900px;
 	height: 100%;
 }

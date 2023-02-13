@@ -17,12 +17,11 @@ html, body{
     width: 860px;
     word-wrap: break-word;
 }
-.bg1{
-	background-image: url("https://i.imgur.com/YUPql5N.gif");
-}
+
 .bg2{
-	background-image: url("andreabeggio.github.io/img/robots.gif");
+	background-image: url("/img/robots.gif");
 }
+
 a{
 	color: #000000;
 }
@@ -47,9 +46,6 @@ h1, h2, h3, p, a {
 }
 span.line{
   color: red;
-}
-.cursor{
-    cursor: url(https://i.imgur.com/RUE567I.gif), auto;
 }
 
 /* @group Blink */

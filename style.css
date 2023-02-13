@@ -18,8 +18,8 @@ html, body{
     word-wrap: break-word;
 }
 .bg{
-	background-image: url('/img/robot.gif')
-  repeat ;
+	background-image: url('/img/robot.gif');
+  background-color: darkgrey;
 }
 
 a{

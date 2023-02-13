@@ -18,7 +18,8 @@ html, body{
     word-wrap: break-word;
 }
 .bg{
-	background-image: url('/img/boston_robots.gif');
+	background-image: url('../img/boston_robots.gif')
+  repeat ;
 }
 
 a{

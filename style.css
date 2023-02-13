@@ -19,7 +19,7 @@ html, body{
 }
 .bg{
 	background-image: url('/img/robot.gif');
-  background-color: darkgrey;
+  background-color: slategrey;
 }
 
 a{

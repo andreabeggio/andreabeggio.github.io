@@ -3,7 +3,7 @@ html, body{
 	font-family: "Comic Sans MS", sans-serif;
 	line-height:1.4;
 	margin:0 auto;
-	max-width:860px;
+	max-width: 900px;
 	height: 100%;
 }
 .center{
@@ -14,7 +14,7 @@ html, body{
 }
 .max { 
     display: block;
-    width: 860px;
+    width: 900px;
     word-wrap: break-word;
 }
 

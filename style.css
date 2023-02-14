@@ -3,7 +3,7 @@ html, body{
 	font-family: "Comic Sans MS", sans-serif;
 	line-height:1.4;
 	margin:50px auto;
-	max-width: 900px;
+	max-width: 860px;
 	height: 100%;
 }
 .center{
@@ -14,7 +14,7 @@ html, body{
 }
 .max { 
     display: block;
-    width: 900px;
+    width: 860px;
     word-wrap: break-word;
 }
 .bg{
@@ -22,7 +22,8 @@ html, body{
   	background-color: slategrey;
 }
 .panel {
-	margin: 6px, 6px;
+	margin: 50px auto;
+	padding: 50px auto;
 	background-color: rgba(245, 245, 245, 0.5);
 }
 

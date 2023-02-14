@@ -24,7 +24,7 @@ html, body{
 .panel {
 	margin: 50px;
 	padding: 50px;
-	background-color: rgba(245, 245, 245, 0.5);
+	background-color: rgba(245, 245, 245, 0.85);
 }
 
 a{

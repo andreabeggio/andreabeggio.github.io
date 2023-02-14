@@ -2,7 +2,7 @@ html, body{
 	-webkit-font-smoothing:antialiased;
 	font-family: "Comic Sans MS", sans-serif;
 	line-height:1.4;
-	margin:50px auto;
+	margin: 25px auto;
 	max-width: 860px;
 	height: 100%;
 }
@@ -24,7 +24,9 @@ html, body{
 .panel {
 	margin: 50px;
 	padding: 50px;
-	background-color: rgba(245, 245, 245, 0.85);
+	background-color: rgba(245, 245, 245, 0.95);
+	font-family: Arial, Helvetica, sans-serif;
+	
 }
 
 a{

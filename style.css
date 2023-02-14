@@ -48,7 +48,7 @@ a{
     border: 2px solid black;
     box-sizing: border-box;
 }
-h1, h2, h3, p, a {
+h1 {
   color: red;
 }
 span.line{
